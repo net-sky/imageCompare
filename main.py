@@ -43,7 +43,7 @@ def aHash(img):
     # plt.subplot(122)
     # plt.imshow(Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB)))
     # plt.show()
-    return hash_str
+    return hash_str 
 
 
 def dHash(img):
