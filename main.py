@@ -2,7 +2,7 @@
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
+# test
 
 import cv2
 import numpy as np
@@ -43,7 +43,7 @@ def aHash(img):
     # plt.subplot(122)
     # plt.imshow(Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB)))
     # plt.show()
-    return hash_str 
+    return hash_str
 
 
 def dHash(img):
